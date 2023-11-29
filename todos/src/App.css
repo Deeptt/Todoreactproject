@@ -1,0 +1,82 @@
+
+body{
+  margin:0px;
+  padding:0px;
+  background: rgba(0, 0, 0,80%)
+  
+}
+.container{
+  display:flex;
+  justify-content:center;
+  color:white;
+  margin-top:4vh;
+}
+.header{
+  font-family: 'Oswald';
+  width:800px;
+  font-size:50px;
+  font-weight:bold;
+  background-color:rgb(126, 126, 194);
+  border:0px solid white;
+  border-radius: 10px;
+}
+.box{
+  font-size:20px;
+font-family: 'Oswald';
+  height:30px;
+ margin-left:10vw;
+ margin-bottom:20px;
+ width:30vw;
+ border:0px solid white;
+border-radius:5px;;
+ 
+}
+.head{
+  
+  margin-left:18vw;
+  height:10px;
+  margin-top: 10px;
+}
+.but{
+  display:flex;
+  align-items:center;
+  margin-top:-52px;
+  height:32px;
+  width:70px;
+  margin-left:40.6vw;
+  border:0px solid white;
+  border-radius:5px;
+  background-color: aquamarine;
+  font-weight:bold;
+}
+.but2{
+  display:flex;
+  align-items:center;
+  margin-top:-50px;
+  height:32px;
+  width:70px;
+  margin-left:40.6vw;
+  border:0px solid white;
+  border-radius:5px;
+  background-color: aquamarine;
+  font-weight:bold;
+}
+.but:hover{
+  background-color: rgb(237, 165, 165);
+}
+.but2:hover{
+  background-color: rgb(237, 165, 165);
+}
+.box1{
+  font-family: 'Oswald';
+  font-size:25px;
+  color:black;
+  height:30px;
+  margin-top:1vh;
+  margin-left:10vw;
+  margin-bottom:20px;
+  width:30vw;
+  border:0px solid white;
+ border-radius:5px;; 
+ background-color: white;
+}
